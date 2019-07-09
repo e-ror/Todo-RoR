@@ -16,11 +16,11 @@
 
 ### Mapes, kurās notikusi koda konfigurācija
 
-_config ↳ routes.rb_;
-_db ↳ migrate_;
-_app ↳ controllers_;
-_app ↳ views_;
-_models ↳ todo_list.rb_
+_config ↳ routes.rb_;  
+_db ↳ migrate_;  
+_app ↳ controllers_;  
+_app ↳ views_;  
+_models ↳ todo_list.rb_  
 ....................................................................................................................
 
 
