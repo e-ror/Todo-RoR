@@ -1,21 +1,21 @@
 # Rails "Todo" web aplikācija
 
 ## Kā iestartēt?
-**Lejupielādēt mapi Todo-RoR**
+* **Lejupielādēt mapi Todo-RoR**
 
-**Ieiet Todo-RoR mapes direktorijā**
+* **Ieiet Todo-RoR mapes direktorijā**
 
-**Palaist rails serveru**
+* **Palaist rails serveru**
 
 ....................................................................................................................
 
 ### Mapes, kurās notikusi koda konfigurācija
 
-_config ↳ routes.rb
-db ↳ migrate
-app ↳ controllers 
-app ↳ views
-models ↳ todo_list.rb_
+_config ↳ routes.rb_
+_db ↳ migrate_
+_app ↳ controllers_ 
+_app ↳ views_
+_models ↳ todo_list.rb_
 
 ## Video, kā strādā aplikācija (spiež uz bildi! ↓)
 
