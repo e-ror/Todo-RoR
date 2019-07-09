@@ -18,9 +18,11 @@
 
 _config ↳ routes.rb_;  
 _db ↳ migrate_;  
+_app ↳ assets ↳ stylesheets_;  
 _app ↳ controllers_;  
+_app ↳ models ↳ todo_list.rb_;  
 _app ↳ views_;  
-_app ↳ models ↳ todo_list.rb_  
+_app ↳ assets ↳ stylesheets_  
 ....................................................................................................................
 
 
