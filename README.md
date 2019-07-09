@@ -1,3 +1,3 @@
 ## Video, kā strādā aplikācija (spiež uz bildi! ↓)
 
-[!Todo RoR](https://ibb.co/wQ9zRnV)](https://www.youtube.com/watch?v=cXpLQD85Mhk)
+[![Todo RoR](https://i.ibb.co/QH2KfWL/Capture.jpg)](https://www.youtube.com/watch?v=cXpLQD85Mhk)
